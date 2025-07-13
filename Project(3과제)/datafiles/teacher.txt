@@ -1,0 +1,9 @@
+tno	name	id	pw	phone	birth	uni	state	grade
+1	 박지우	tjstodsla01	tjstodsla01!	 010-7890-1234	2000년 03월 15일	 개그대학교	재학	2학년
+2	 김성민	tjstodsla02	tjstodsla02!	 010-4567-8901	1998년 08월 20일	 까북대학교	휴학	3학년
+3	 이은지	tjstodsla03	tjstodsla03!	 010-2345-6789	2002년 05월 10일	 웃음대학교	졸업	4학년
+4	 최현우	tjstodsla04	tjstodsla04!	 010-5432-1098	1997년 11월 25일	 유머대학교	휴학	1학년
+5	 정지은	tjstodsla05	tjstodsla05!	 010-9876-5432	2001년 02월 08일	 웃음대학교	재학	3학년
+6	 강준호	tjstodsla06	tjstodsla06!	 010-8765-4321	1999년 09월 04일	 개그대학교	졸업	4학년
+7	 조예은	tjstodsla07	tjstodsla07!	 010-3210-9876	2000년 07월 19일	 유머대학교	재학	2학년
+8	 윤종현	tjstodsla08	tjstodsla08!	 010-5432-2109	1996년 04월 30일	 까북대학교	휴학	1학년
